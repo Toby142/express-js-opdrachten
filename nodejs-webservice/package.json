@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-webservice",
+  "version": "1.0.0",
+  "description": "node js webservice opdracht",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "pretty-log": "^0.1.0"
+  }
+}
